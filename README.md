@@ -1,4 +1,4 @@
--  Hey, I’m Aman Jat
+-  Hey, I’m Aman Jat, student in IIT Roorkee
 -  I’m interested in Blockchain and Smart Contracts
 -  I’m currently learning Web3 development with javascript
 -  I’m looking to collaborate on Web3 projects
